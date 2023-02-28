@@ -1,4 +1,4 @@
-# Criação automatizada de imagem de container pelo Packer
+# Criação automatizada de imagem de contêiner pelo Packer
 
 Neste projeto, há a criação de imagens Docker através do Packer.
 
